@@ -1,1 +1,1 @@
-# qr_generate
+# practicing  Python programming
